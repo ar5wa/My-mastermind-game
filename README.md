@@ -1,4 +1,4 @@
-#Mastermind Console Game
+###Mastermind Console Game
 
 A simple and fun console-based implementation of the classic **Mastermind** game built in **C#**.
 ---
